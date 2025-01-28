@@ -62,6 +62,6 @@
 
 ---
 
-## ** Fun Fact**  
+## **Fun Fact**  
 
 💃 I’m also a **certified Zumba Instructor**—ask me about my playlist! 🕺  
