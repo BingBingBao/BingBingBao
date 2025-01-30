@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Bing Huang!** 
 
-### **💡 About Me**  
+### **About Me**  
 
 🔹 **Former Choice Modeller** specializing in **Econometrics and Statistics**  
 🔹 Now a **Passionate Data Scientist & AI Enthusiast**  
@@ -10,7 +10,7 @@
 
 ---
 
-## **🛠️ My Tech Skills**  
+## **My Tech Skills**  
 
 **Programming**: Python, SQL, R  
 **Data Science Tools**: Pandas, NumPy, Scikit-learn  
@@ -19,7 +19,7 @@
 
 ---
 
-## **📂 Projects**  
+## **Projects**  
 
 ### **Statistics Repository**  
 📌 **Repo**: [Statistics Repository](https://github.com/BingBingBao/Statistics)  
@@ -32,7 +32,7 @@
 
 ---
 
-### ** Natural Language Processing (NLP) Repository**  
+### **Natural Language Processing (NLP) Repository**  
 📌 **Repo**: [NLP Projects](https://github.com/BingBingBao/NLP_projects)  
 🔹 **Key Topics**: Sentiment analysis, text classification, document similarity, word embeddings.  
 🔹 **Featured Projects**:  
@@ -53,12 +53,12 @@
 
 ---
 
-## **📫 Let's Connect**  
+## **Let's Connect**  
 
-📧 **Email**: [binghuang1990@gmail.com](mailto:binghuang1990@gmail.com)  
-💼 **LinkedIn**: https://www.linkedin.com/in/bing-huang-62b123232/
+**Email**: [binghuang1990@gmail.com](mailto:binghuang1990@gmail.com)  
+**LinkedIn**: https://www.linkedin.com/in/bing-huang-62b123232/
 
-🚀 **Check out my GitHub portfolio for more projects!**  
+**Check out my GitHub portfolio for more projects!**  
 
 ---
 
