@@ -2,11 +2,11 @@
 
 ### **About Me**  
 
-🔹 **Former Choice Modeller** specializing in **Econometrics and Statistics**  
-🔹 Now a **Passionate Data Scientist & AI Enthusiast**  
-🔹 Expertise in **Machine Learning, NLP, and LLMs**  
-🔹 **PhD in Travel Behavior Modeling & Analysis** from **Delft University of Technology** 🎓  
-🔹 Currently building **cutting-edge AI-driven solutions and LLM-based projects** 🤖  
+- **Former Choice Modeller** specializing in **Econometrics and Statistics**  
+- Now a **Passionate Data Scientist & AI Enthusiast**  
+- Expertise in **Machine Learning, NLP, and LLMs**  
+- **PhD in Travel Behavior Modeling & Analysis** from **Delft University of Technology** 🎓  
+- Currently building **cutting-edge AI-driven solutions and LLM-based projects** 🤖  
 
 ---
 
@@ -22,7 +22,7 @@
 ## **Projects**  
 
 ### **Statistics Repository**  
-📌 **Repo**: [Statistics Repository](https://github.com/BingBingBao/Statistics)  
+**Repo**: [Statistics Repository](https://github.com/BingBingBao/Statistics)  
 🔹 **Key Topics**: Probability theory, Monte Carlo simulations, regression modeling, risk analysis.  
 🔹 **Featured Projects**:  
    - Law of Large Numbers & Central Limit Theorem 
@@ -33,7 +33,7 @@
 ---
 
 ### **Natural Language Processing (NLP) Repository**  
-📌 **Repo**: [NLP Projects](https://github.com/BingBingBao/NLP_projects)  
+**Repo**: [NLP Projects](https://github.com/BingBingBao/NLP_projects)  
 🔹 **Key Topics**: Sentiment analysis, text classification, document similarity, word embeddings.  
 🔹 **Featured Projects**:  
    - Movie Review Sentiment Analysis (CNN vs. RNN)  
@@ -43,7 +43,7 @@
 ---
 
 ### **Machine Learning Repository**  
-📌 **Repo**: [ML Projects](https://github.com/BingBingBao/ML_Projects)  
+**Repo**: [ML Projects](https://github.com/BingBingBao/ML_Projects)  
 🔹 **Key Topics**: Classification, deep learning, transfer learning, feature engineering.  
 🔹 **Featured Projects**:  
    - Breast Cancer Prediction (LR, DT, RF, SVM, KNN) 
