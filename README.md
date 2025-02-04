@@ -15,7 +15,7 @@
 **Programming**: Python, SQL, R  
 **Data Science Tools**: Pandas, NumPy, Scikit-learn  
 **Machine Learning**: Keras, TensorFlow, PyTorch  
-**NLP & LLMs**: Hugging Face, OpenAI API, RAG, LangChain  
+**NLP & LLMs**: OpenAI API, RAG, LangChain  
 
 ---
 
@@ -64,4 +64,4 @@
 
 ## **Fun Fact**  
 
-💃 I’m also a **certified Zumba Instructor**—ask me about my playlist! 🕺  
+💃 I’m also a Hiphop Dancer! 🕺  
