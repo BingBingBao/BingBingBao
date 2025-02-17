@@ -22,7 +22,7 @@
 ## **Projects**  
 
 ### **Reliability Engineering Repository**  
-**Repo**: [Statistics Repository](https://github.com/BingBingBao/Reliability_Projects)   
+**Repo**: [Reliability Repository](https://github.com/BingBingBao/Reliability_Projects)   
 
 This repository focuses on reliability engineering and predictive maintenance techniques applied to real-world datasets. It includes various projects exploring failure prediction, degradation modeling, and survival analysis.
 
