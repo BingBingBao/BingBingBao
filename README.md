@@ -21,10 +21,21 @@
 
 ## **Projects**  
 
+### **Reliability Engineering Repository**  
+**Repo**: [Statistics Repository](https://github.com/BingBingBao/Reliability_Projects)   
+
+This repository focuses on reliability engineering and predictive maintenance techniques applied to real-world datasets. It includes various projects exploring failure prediction, degradation modeling, and survival analysis.
+
+🔹 **Projects**:  
+   - Remaining Useful Lifetime Prediction - NASA Turbofan engine data
+   - Weibull Regression Analysis
+
+---
+
 ### **Statistics Repository**  
 **Repo**: [Statistics Repository](https://github.com/BingBingBao/Statistics)  
 🔹 **Key Topics**: Probability theory, Monte Carlo simulations, regression modeling, risk analysis.  
-🔹 **Featured Projects**:  
+🔹 **Projects**:  
    - Law of Large Numbers & Central Limit Theorem 
    - Monte Carlo Simulation for Risk Analysis 
    - Linear Regression: Brain Size & IQ Analysis 
@@ -35,7 +46,7 @@
 ### **Natural Language Processing (NLP) Repository**  
 **Repo**: [NLP Projects](https://github.com/BingBingBao/NLP_projects)  
 🔹 **Key Topics**: Sentiment analysis, text classification, document similarity, word embeddings.  
-🔹 **Featured Projects**:  
+🔹 **Projects**:  
    - Movie Review Sentiment Analysis (CNN vs. RNN)  
    - Content-Based Movie Recommendation System (TF-IDF & FastText) 
    - Language Detector: Identifying Text Language with ML 
@@ -45,7 +56,7 @@
 ### **Machine Learning Repository**  
 **Repo**: [ML Projects](https://github.com/BingBingBao/ML_Projects)  
 🔹 **Key Topics**: Classification, deep learning, transfer learning, feature engineering.  
-🔹 **Featured Projects**:  
+🔹 **Projects**:  
    - Breast Cancer Prediction (LR, DT, RF, SVM, KNN) 
    - Telecom Customer Churn Prediction (XGBoost, Random Forest)  
    - Brain Tumor Detection (CNN & VGG16) 
