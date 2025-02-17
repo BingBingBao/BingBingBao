@@ -6,7 +6,7 @@
 - Now a **Passionate Data Scientist & AI Enthusiast**  
 - Expertise in **Machine Learning, NLP, and LLMs**  
 - **PhD in Travel Behavior Modeling & Analysis** from **Delft University of Technology** 🎓  
-- Currently building **cutting-edge AI-driven solutions and LLM-based projects** 🤖  
+- Currently building **cutting-edge AI-driven solutions and LLM-based projects** 
 
 ---
 
