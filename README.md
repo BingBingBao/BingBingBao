@@ -13,8 +13,8 @@
 ## **My Tech Skills**  
 
 **Programming**: Python, SQL, R  
-**Data Science Tools**: Pandas, NumPy, Scikit-learn  
-**Machine Learning**: Keras, TensorFlow
+**Data Science Tools**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+**Machine Learning**: Keras, TensorFlow  
 **NLP & LLMs**: OpenAI API, RAG, LangChain  
 
 ---
