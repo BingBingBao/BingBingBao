@@ -34,17 +34,6 @@ These projects apply **machine learning, deep learning, anomaly detection, and t
 
 ---
 
-### **Statistics Repository**  
-**Repo**: [Statistics Repository](https://github.com/BingBingBao/Statistics)  
-**Key Topics**: Probability theory, Monte Carlo simulations, regression modeling, risk analysis.  
-**Projects**:  
-   - Law of Large Numbers & Central Limit Theorem 
-   - Monte Carlo Simulation for Risk Analysis 
-   - Linear Regression: Brain Size & IQ Analysis 
-   - Generalized Linear Models: Leukemia Remission Prediction
-
----
-
 ### **Natural Language Processing (NLP) Repository**  
 **Repo**: [NLP Projects](https://github.com/BingBingBao/NLP_projects)  
 **Key Topics**: Sentiment analysis, text classification, document similarity, word embeddings.  
