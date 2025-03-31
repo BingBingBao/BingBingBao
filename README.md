@@ -29,6 +29,7 @@ Fault Diagnosis and Predictive Maintenance are core topics in Reliability Engine
 This repository contains two predictive maintenance projects using NASA datasets: 
 1. **Bearing Fault Diagnosis** → Analyzing vibration signals to detect faults in rotating machinery.
 2. **Turbofan Engine Remaining Useful Life (RUL) Prediction** → Predicting the remaining time before engine failure.
+3. **Circuit Breaker vibration signal_condition Monitoring**
 
 These projects apply **machine learning, deep learning, anomaly detection, and time-series forecasting** to improve industrial reliability.
 
