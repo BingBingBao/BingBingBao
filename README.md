@@ -15,7 +15,7 @@
 **Programming**: Python, SQL, R  
 **Data Science Tools**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 **Machine Learning**: Keras, TensorFlow  
-**NLP & LLMs**: OpenAI API, RAG, LangChain  
+**NLP & LLMs**: OpenAI API, RAG, LangChain, Topic Modelling, Bert 
 
 ---
 
@@ -26,12 +26,13 @@
 
 Fault Diagnosis and Predictive Maintenance are core topics in Reliability Engineering. These techniques aim to prevent unexpected failures and optimize maintenance schedules, reducing downtime and repair costs in industrial systems.
 
-This repository contains two predictive maintenance projects using NASA datasets: 
-1. **Bearing Fault Diagnosis** → Analyzing vibration signals to detect faults in rotating machinery.
-2. **Turbofan Engine Remaining Useful Life (RUL) Prediction** → Predicting the remaining time before engine failure.
-3. **Circuit Breaker vibration signal_condition Monitoring**
+This repository contains multiple projects focused on **vibration-based** condition monitoring and predictive maintenance using real-world datasets:
 
-These projects apply **machine learning, deep learning, anomaly detection, and time-series forecasting** to improve industrial reliability.
+1. **Bearing Fault Diagnosis**: Analyzing vibration signals to detect faults in rotating machinery.
+2. **Turbofan Engine Remaining Useful Life (RUL) Prediction**: Predicting the remaining time before engine failure.
+3. **Circuit Breaker vibration signal condition Monitoring**: This project focuses on non-stationary vibration signals collected during CB switching operations. The vibration signals are first transformed into frequency-based Kurtogram images, which are then used to train a CNN for healthy/faulty classification.
+
+These projects apply **machine learning, anomaly detection, and time-series forecasting** to improve industrial reliability.
 
 ---
 
